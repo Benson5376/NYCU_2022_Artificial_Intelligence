@@ -1,2 +1,2 @@
-# NCTU-2022_Spring-AI
+# NYCU_2022_AI_Face_Detection
 Introduction to Artificial Intelligence
