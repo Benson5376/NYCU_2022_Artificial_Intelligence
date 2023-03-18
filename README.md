@@ -1,2 +1,2 @@
 # NYCU_2022_AI_Face_Detection
-Introduction to Artificial Intelligence
+NYCU Artificial Intellegence (2022 Spring)
